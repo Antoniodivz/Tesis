@@ -6,5 +6,5 @@ do
 	papermill Hoti_fractal_$delta.ipynb Hoti_fractal_$delta.output.ipynb
 done
 
-cd /home/toodivz/Documents/Tesis/Hoti_fractal/54x54
-papermill Hoti_fractal_54.ipynb Hoti_fractal_54.output.ipynb
+#cd /home/toodivz/Documents/Tesis/Hoti_fractal/54x54
+#papermill Hoti_fractal_54.ipynb Hoti_fractal_54.output.ipynb
