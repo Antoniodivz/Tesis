@@ -12,3 +12,7 @@ do
 	papermill Hoti_0.ipynb Hoti_$delta.output.ipynb -p name_array array_18x18.xyz -p epsi $delta \
 		-p nval $value -p cal_value False
 done
+
+
+cd /home/toodivz/Documents/Tesis/Hoti_fractal
+./scritp_run.sh
