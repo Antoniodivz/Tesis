@@ -1,0 +1,11 @@
+Nicola A. Spaldin,
+A beginner's guide to the modern theory of polarization,
+Journal of Solid State Chemistry,
+Volume 195,
+2012,
+Pages 2-10,
+ISSN 0022-4596,
+https://doi.org/10.1016/j.jssc.2012.05.010.
+(https://www.sciencedirect.com/science/article/pii/S0022459612003234)
+Abstract: The so-called Modern Theory of Polarization, which rigorously defines the spontaneous polarization of a periodic solid and provides a route for its computation in electronic structure codes through the Berry phase, is introduced in a simple qualitative discussion.
+Keywords: Polarization; Berry phase; Electronic structure calculation
