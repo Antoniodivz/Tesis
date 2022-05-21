@@ -1,18 +1,19 @@
 #!/bin/bash
 
-cd /home/toodivz/Documents/Tesis/Hoti_curadrado/Delta_0
+cd /Users/toodivz/Documents/Tesis/Hoti_curadrado/Delta_0
         papermill Hoti_0.ipynb Hoti_0.output.ipynb -p name_array array_18x18.xyz -p epsi 0.0 \
 		                 -p cal_value True
-value=$(cat /home/toodivz/Documents/Tesis/Hoti_curadrado/Delta_0/gamma_value.txt)
-
+value=$(cat /Users/toodivz/Documents/Tesis/Hoti_curadrado/Delta_0/gamma_value.txt)
+cvalue=$(cat /Users/toodivz/Documents/Tesis/Hoti_curadrado/Delta_0/cut_value.txt)
 
 for delta in 0.01 0.05 0.1 0.2 0.3 0.4 0.5;
 do
-	cd /home/toodivz/Documents/Tesis/Hoti_curadrado/Delta_$delta
+	cd /Users/toodivz/Documents/Tesis/Hoti_curadrado/Delta_$delta
 	papermill Hoti_0.ipynb Hoti_$delta.output.ipynb -p name_array array_18x18.xyz -p epsi $delta \
-		 -p cal_value False
+		-p nval $value -p val $cvalue -p cal_value False
 done
 
 
-cd /home/toodivz/Documents/Tesis/Hoti_fractal
+cd /Users/toodivz/Documents/Tesis/Hoti_fractal
 ./scritp_run.sh
+
