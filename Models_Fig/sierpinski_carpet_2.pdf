@@ -8,23 +8,19 @@ endobj
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /Shading 6 0 R
 /XObject 7 0 R >>
 endobj
-11 0 obj
-<< /Annots 10 0 R /Contents 9 0 R /MediaBox [ 0 0 432 432 ] /Parent 2 0 R
-/Resources 8 0 R /Type /Page >>
+10 0 obj
+<< /Annots [ ] /Contents 9 0 R
+/Group << /CS /DeviceRGB /S /Transparency /Type /Group >>
+/MediaBox [ 0 0 432 432 ] /Parent 2 0 R /Resources 8 0 R /Type /Page >>
 endobj
 9 0 obj
-<< /Filter /FlateDecode /Length 12 0 R >>
+<< /Filter /FlateDecode /Length 11 0 R >>
 stream
-xœPÛ‚0}ïWôÆÖÁÆ+jBâòàDÍ Qù};®bˆ&kÚsÖ^‚Cùºå)İá>‡`AE
-ï$
-«%ŞÙ:T˜â:I2_C¨‰½ë½7Çüä=hX¯b²HQˆüjĞq,bº1Ô±Ê0dn¹üŠ´}ÿ÷,ñŒËzé¿d3ü!ÊDÂ 2$,±.Y+h‚n„d•}«!y†³|?"á%wèú+¬Ï8ş9äËõ÷ü¹±ìÀI[5¼Hh
+xœPÍ‚0¾÷)úcëÆ¶+Æ„Äzğ¢H”D^ßş„x0YÓ~m¿¯k^!ÉÖ=J¼²¨0Çd[=.eµÏ7Xö 9ß‚ÑÄ¾}°†óÑŸ:`.çL¯!5È¯í½ğ!l¦P{)”eÈ¹%fú	nIZ›ĞG6Ôî±cÙ ı—l?„AÙTXT–„#Ö%çÍ°™ 9%L›¸È'…óîPò„a¼Âçç¿¯=Úï=¸¸²lÌNMkœ7Ç^‘
 endstream
 endobj
-12 0 obj
-210
-endobj
-10 0 obj
-[ ]
+11 0 obj
+202
 endobj
 3 0 obj
 << >>
@@ -43,31 +39,30 @@ endobj
 << >>
 endobj
 2 0 obj
-<< /Count 1 /Kids [ 11 0 R ] /Type /Pages >>
+<< /Count 1 /Kids [ 10 0 R ] /Type /Pages >>
 endobj
-13 0 obj
-<< /CreationDate (D:20220615142511-05'00')
-/Creator (Matplotlib v3.5.1, https://matplotlib.org)
-/Producer (Matplotlib pdf backend v3.5.1) >>
+12 0 obj
+<< /CreationDate (D:20220704141417-05'00')
+/Creator (Matplotlib v3.3.2, https://matplotlib.org)
+/Producer (Matplotlib pdf backend v3.3.2) >>
 endobj
 xref
-0 14
+0 13
 0000000000 65535 f 
 0000000016 00000 n 
-0000000838 00000 n 
-0000000655 00000 n 
-0000000676 00000 n 
-0000000775 00000 n 
-0000000796 00000 n 
-0000000817 00000 n 
+0000000865 00000 n 
+0000000682 00000 n 
+0000000703 00000 n 
+0000000802 00000 n 
+0000000823 00000 n 
+0000000844 00000 n 
 0000000065 00000 n 
-0000000330 00000 n 
-0000000635 00000 n 
+0000000385 00000 n 
 0000000208 00000 n 
-0000000615 00000 n 
-0000000898 00000 n 
+0000000662 00000 n 
+0000000925 00000 n 
 trailer
-<< /Info 13 0 R /Root 1 0 R /Size 14 >>
+<< /Info 12 0 R /Root 1 0 R /Size 13 >>
 startxref
-1055
+1082
 %%EOF
